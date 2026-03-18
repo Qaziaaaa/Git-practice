@@ -1,4 +1,4 @@
 # Git-practice
 This is my first description.
 <br/>
-Author - Qazi Farhan Ahmad
+Author - Qazi Farhan
