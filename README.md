@@ -1,10 +1,16 @@
-# Git-practice
-This is my first description.
-<br/>
-Author - Qazi Farhan
-This is change in new feature
-This is change in new branch
-I am adding another (div)
-I am adding another (button)
-I am adding 2nd feature
+# Git Practice
 
+Repository for practicing Git workflows, branching strategies, and collaboration techniques.
+
+## Purpose
+
+This repository serves as a sandbox for learning and practicing:
+
+- Git branching and merging
+- Pull request workflows
+- Conflict resolution
+- Git collaboration best practices
+
+---
+
+Built by [Qaziaaaa](https://github.com/Qaziaaaa)
